@@ -22,7 +22,7 @@ body{
     color: #333;
 }
 #content{
-    background-color:antiquewhite;
+    background-color: rgba(76, 175, 80, 0.7);
     width: 80%;
     margin: 30px auto;
     padding: 25px;
